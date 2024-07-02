@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-02T11:57:14.892Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 YaBrowser/24.6.0.0 Safari/537.36" etag="hncg39nyVmrTXqpYtaQt" version="24.6.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-07-02T11:59:54.185Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 YaBrowser/24.6.0.0 Safari/537.36" etag="IWxXE3vxDKafCc5vILJZ" version="24.6.4" type="github" pages="2">
   <diagram name="Среда разработки/среда тестирования" id="llg9eI959ufNJ5P5xfva">
     <mxGraphModel dx="3137" dy="2447" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -110,6 +110,12 @@
         </mxCell>
         <mxCell id="7yHPk8XJTkYft_NBueNa-14" value="HAProxy" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_on_premise;strokeColor=#7D8998;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#5A6C86;dashed=0;" vertex="1" parent="1">
           <mxGeometry x="780" y="490" width="330" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="7yHPk8XJTkYft_NBueNa-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="7yHPk8XJTkYft_NBueNa-17" target="7yHPk8XJTkYft_NBueNa-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7yHPk8XJTkYft_NBueNa-17" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.user;" vertex="1" parent="1">
+          <mxGeometry x="921.25" y="960" width="47.5" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
