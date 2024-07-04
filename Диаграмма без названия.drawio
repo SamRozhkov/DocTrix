@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-04T11:53:12.067Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 YaBrowser/24.6.0.0 Safari/537.36" etag="XG0QQs7HMkhwH48CwsGZ" version="24.6.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-07-04T11:56:35.264Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 YaBrowser/24.6.0.0 Safari/537.36" etag="pXqXrRUQVK312ZWMvSG5" version="24.6.4" type="github" pages="3">
   <diagram name="Среда разработки/среда тестирования" id="llg9eI959ufNJ5P5xfva">
     <mxGraphModel dx="1733" dy="2128" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -213,7 +213,7 @@
         <mxCell id="Lv03sLGX88bdM2_PmtNO-22" value="" style="whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;strokeWidth=2;strokeColor=#007FFF;" vertex="1" parent="Mw-EnX-dF1DfPVoorAtC-1">
           <mxGeometry x="1430" y="-57.5" width="560" height="560" as="geometry" />
         </mxCell>
-        <mxCell id="Lv03sLGX88bdM2_PmtNO-24" value="Продкутивная среда" style="text;strokeColor=none;fillColor=none;html=1;fontSize=20;fontStyle=1;verticalAlign=middle;align=left;" vertex="1" parent="Mw-EnX-dF1DfPVoorAtC-1">
+        <mxCell id="Lv03sLGX88bdM2_PmtNO-24" value="Продуктивная среда" style="text;strokeColor=none;fillColor=none;html=1;fontSize=20;fontStyle=1;verticalAlign=middle;align=left;" vertex="1" parent="Mw-EnX-dF1DfPVoorAtC-1">
           <mxGeometry x="1429.9999999999998" y="-97.5" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Lv03sLGX88bdM2_PmtNO-29" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;exitX=0.013;exitY=0.15;exitDx=0;exitDy=0;exitPerimeter=0;edgeStyle=orthogonalEdgeStyle;dashed=1;" edge="1" parent="Mw-EnX-dF1DfPVoorAtC-1" source="Lv03sLGX88bdM2_PmtNO-31" target="Lv03sLGX88bdM2_PmtNO-37">
