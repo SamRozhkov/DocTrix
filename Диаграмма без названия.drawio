@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-04T14:27:01.909Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 YaBrowser/24.6.0.0 Safari/537.36" etag="wgppyZvVS4pDN0dNcvpA" version="24.6.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-07-04T14:28:45.224Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 YaBrowser/24.6.0.0 Safari/537.36" etag="XmD7dnYmbDrSUrPvbVOi" version="24.6.4" type="github" pages="3">
   <diagram name="Среда разработки/среда тестирования" id="llg9eI959ufNJ5P5xfva">
     <mxGraphModel dx="1733" dy="2128" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -112,7 +112,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Копия Среда разработки/среда тестирования" id="YADiIWRLCLv_W1vX5e_I">
-    <mxGraphModel dx="1631" dy="2071" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2458" dy="2071" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="Mw-EnX-dF1DfPVoorAtC-0" />
         <mxCell id="Mw-EnX-dF1DfPVoorAtC-1" parent="Mw-EnX-dF1DfPVoorAtC-0" />
@@ -412,7 +412,7 @@
           <mxGeometry x="1774.84" y="301" width="50.31" height="69" as="geometry" />
         </mxCell>
         <mxCell id="Lv03sLGX88bdM2_PmtNO-47" value="Добавить человека&amp;nbsp;&lt;div&gt;Сверху балансировки&lt;/div&gt;&lt;div&gt;AD&lt;/div&gt;&lt;div&gt;SMTP&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Mw-EnX-dF1DfPVoorAtC-1">
-          <mxGeometry x="310" y="-360" width="240" height="120" as="geometry" />
+          <mxGeometry x="-380" y="-370" width="240" height="120" as="geometry" />
         </mxCell>
         <mxCell id="Lv03sLGX88bdM2_PmtNO-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;dashed=1;endArrow=classic;endFill=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;strokeColor=#FF3333;strokeWidth=2;" edge="1" parent="Mw-EnX-dF1DfPVoorAtC-1" source="Lv03sLGX88bdM2_PmtNO-39" target="Lv03sLGX88bdM2_PmtNO-40">
           <mxGeometry relative="1" as="geometry">
