@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-04T14:26:17.484Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 YaBrowser/24.6.0.0 Safari/537.36" etag="_ILbZiyN1zj0N_0BjAA9" version="24.6.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-07-04T14:27:01.909Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 YaBrowser/24.6.0.0 Safari/537.36" etag="wgppyZvVS4pDN0dNcvpA" version="24.6.4" type="github" pages="3">
   <diagram name="Среда разработки/среда тестирования" id="llg9eI959ufNJ5P5xfva">
     <mxGraphModel dx="1733" dy="2128" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -112,7 +112,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Копия Среда разработки/среда тестирования" id="YADiIWRLCLv_W1vX5e_I">
-    <mxGraphModel dx="1155" dy="1808" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1631" dy="2071" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="Mw-EnX-dF1DfPVoorAtC-0" />
         <mxCell id="Mw-EnX-dF1DfPVoorAtC-1" parent="Mw-EnX-dF1DfPVoorAtC-0" />
@@ -122,7 +122,7 @@
         <mxCell id="Lv03sLGX88bdM2_PmtNO-18" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=#FF3333;" vertex="1" parent="Mw-EnX-dF1DfPVoorAtC-1">
           <mxGeometry x="490" y="93" width="200" height="157" as="geometry" />
         </mxCell>
-        <mxCell id="Mw-EnX-dF1DfPVoorAtC-4" value="Среда разработки&amp;nbsp;&lt;div&gt;и тестирования&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=20;fontStyle=1;verticalAlign=middle;align=left;" vertex="1" parent="Mw-EnX-dF1DfPVoorAtC-1">
+        <mxCell id="Mw-EnX-dF1DfPVoorAtC-4" value="Среда разработки/&amp;nbsp;&lt;div&gt;тестирования&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=20;fontStyle=1;verticalAlign=middle;align=left;" vertex="1" parent="Mw-EnX-dF1DfPVoorAtC-1">
           <mxGeometry x="470" y="-110" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Mw-EnX-dF1DfPVoorAtC-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=2;" edge="1" parent="Mw-EnX-dF1DfPVoorAtC-1" source="Lv03sLGX88bdM2_PmtNO-8" target="Lv03sLGX88bdM2_PmtNO-10">
