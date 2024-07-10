@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-10T08:11:03.205Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 YaBrowser/24.6.0.0 Safari/537.36" etag="MS2Rj3O8NTawXMFUamX-" version="24.6.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-07-10T08:38:08.758Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 YaBrowser/24.6.0.0 Safari/537.36" etag="NdSiy0KPY653oyXVVKPd" version="24.6.4" type="github" pages="3">
   <diagram name="Среда разработки/среда тестирования" id="llg9eI959ufNJ5P5xfva">
     <mxGraphModel dx="1733" dy="2128" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -493,10 +493,37 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Vt-4b53XFemV2eSOqMoK" name="Архитектура решения">
-    <mxGraphModel dx="1386" dy="767" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2434" dy="902" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="t-RUN66CrmiEiCd78GwP-3" value="" style="whiteSpace=wrap;html=1;fillColor=none;strokeColor=#6c8ebf;rounded=0;glass=1;" vertex="1" parent="1">
+          <mxGeometry x="-240" y="110" width="720" height="620" as="geometry" />
+        </mxCell>
+        <mxCell id="t-RUN66CrmiEiCd78GwP-1" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-420" y="270" as="sourcePoint" />
+            <mxPoint x="510" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="t-RUN66CrmiEiCd78GwP-4" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Среда разработки/тестирования&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-5" y="80" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="t-RUN66CrmiEiCd78GwP-5" value="" style="whiteSpace=wrap;html=1;fillColor=none;strokeColor=#6c8ebf;rounded=0;glass=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="110" width="720" height="620" as="geometry" />
+        </mxCell>
+        <mxCell id="t-RUN66CrmiEiCd78GwP-6" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="270" as="sourcePoint" />
+            <mxPoint x="1280" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="t-RUN66CrmiEiCd78GwP-7" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;Продуктивная среда&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="820" y="80" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="t-RUN66CrmiEiCd78GwP-8" value="Уровень пользоваетеля" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-410" y="230" width="90" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
