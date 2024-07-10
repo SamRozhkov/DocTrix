@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-10T09:09:33.355Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 YaBrowser/24.6.0.0 Safari/537.36" etag="l1uuF-DXD31LmdwmhivB" version="24.6.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-07-10T09:14:54.485Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 YaBrowser/24.6.0.0 Safari/537.36" etag="9zgWrXcIKx036ttwmYMN" version="24.6.4" type="github" pages="3">
   <diagram name="Среда разработки/среда тестирования" id="llg9eI959ufNJ5P5xfva">
     <mxGraphModel dx="1733" dy="2128" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -522,7 +522,7 @@
           <mxGeometry x="820" y="80" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="t-RUN66CrmiEiCd78GwP-8" value="Уровень пользователя" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-410" y="230" width="90" height="30" as="geometry" />
+          <mxGeometry x="-400" y="230.34" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZT2uuS9wgfTDKKFfI8w0-3" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="N39OP-Ugc0v_L_BxPKSj-1" target="ZT2uuS9wgfTDKKFfI8w0-1">
           <mxGeometry relative="1" as="geometry" />
@@ -552,7 +552,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="N39OP-Ugc0v_L_BxPKSj-8" value="Уровень приложений" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-410" y="440" width="90" height="30" as="geometry" />
+          <mxGeometry x="-400" y="440" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Yu1F0DkV0LlcliSmlStD-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="ZT2uuS9wgfTDKKFfI8w0-1" target="Yu1F0DkV0LlcliSmlStD-1">
           <mxGeometry relative="1" as="geometry" />
