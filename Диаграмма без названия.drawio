@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-10T09:09:10.482Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 YaBrowser/24.6.0.0 Safari/537.36" etag="T3NvQh_BozjupZre92Eh" version="24.6.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-07-10T09:09:33.355Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 YaBrowser/24.6.0.0 Safari/537.36" etag="l1uuF-DXD31LmdwmhivB" version="24.6.4" type="github" pages="3">
   <diagram name="Среда разработки/среда тестирования" id="llg9eI959ufNJ5P5xfva">
     <mxGraphModel dx="1733" dy="2128" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -563,8 +563,8 @@
         <mxCell id="ZT2uuS9wgfTDKKFfI8w0-4" value="TCP 443" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;rotation=-40;" vertex="1" parent="1">
           <mxGeometry x="190" y="245.01" width="50" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="ZT2uuS9wgfTDKKFfI8w0-5" value="10.100.100.1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;" vertex="1" parent="1">
-          <mxGeometry x="172.14" y="315" width="50" height="10" as="geometry" />
+        <mxCell id="ZT2uuS9wgfTDKKFfI8w0-5" value="10.100.100.1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="180" y="315" width="50" height="10" as="geometry" />
         </mxCell>
         <mxCell id="ZT2uuS9wgfTDKKFfI8w0-7" value="TCP 443" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;rotation=53;" vertex="1" parent="1">
           <mxGeometry x="96" y="257.01" width="50" height="10" as="geometry" />
