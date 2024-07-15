@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-15T10:37:22.139Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 YaBrowser/24.6.0.0 Safari/537.36" etag="eBuWCWmkJ2U9qLo0DqLh" version="24.6.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-07-15T10:38:46.268Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 YaBrowser/24.6.0.0 Safari/537.36" etag="5G59ejuqdhL3MDowE-4l" version="24.6.4" type="github" pages="3">
   <diagram name="Среда разработки/среда тестирования" id="YADiIWRLCLv_W1vX5e_I">
     <mxGraphModel dx="2778" dy="2265" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -669,12 +669,6 @@
         </mxCell>
         <mxCell id="DL787kOeZVTbMng_UYBr-4" value="&lt;div&gt;СУБД MongoDB&lt;/div&gt;&lt;div&gt;Количество: 1 сервера&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="DL787kOeZVTbMng_UYBr-1">
           <mxGeometry x="5" y="38.360000000000014" width="130" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="VH44RTK1T_XnCegINMDd-1" value="" style="whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;strokeWidth=2;strokeColor=#007FFF;" vertex="1" parent="1">
-          <mxGeometry x="1230" y="1022.5" width="620" height="560" as="geometry" />
-        </mxCell>
-        <mxCell id="VH44RTK1T_XnCegINMDd-2" value="Продуктивная среда" style="text;strokeColor=none;fillColor=none;html=1;fontSize=20;fontStyle=1;verticalAlign=middle;align=left;" vertex="1" parent="1">
-          <mxGeometry x="1229.9999999999998" y="982.5" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VH44RTK1T_XnCegINMDd-3" value="" style="whiteSpace=wrap;html=1;dashed=1;strokeColor=default;dashPattern=1 2;" vertex="1" parent="1">
           <mxGeometry x="1270" y="1186" width="440" height="144" as="geometry" />
