@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-30T08:24:09.122Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 YaBrowser/24.6.0.0 Safari/537.36" etag="wwdo7SxWObsIKnuOb6Q8" version="24.6.5" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-07-30T08:26:32.072Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 YaBrowser/24.6.0.0 Safari/537.36" etag="oX4-i0mZerH4mOuVxKMo" version="24.6.5" type="github" pages="4">
   <diagram name="Среда разработки/среда тестирования" id="YADiIWRLCLv_W1vX5e_I">
     <mxGraphModel dx="2778" dy="2265" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -861,7 +861,7 @@
           <mxGeometry x="690" y="240" width="50.31" height="69" as="geometry" />
         </mxCell>
         <mxCell id="VEyqHU3WlS9mrZsaeKjX-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;dashed=1;dashPattern=8 8;fillColor=none;strokeColor=#FF3333;" vertex="1" parent="1">
-          <mxGeometry x="827" y="50" width="1120" height="1120" as="geometry" />
+          <mxGeometry x="827" y="50" width="990" height="990" as="geometry" />
         </mxCell>
         <mxCell id="VEyqHU3WlS9mrZsaeKjX-3" value="" style="whiteSpace=wrap;html=1;dashed=1;labelPosition=left;verticalLabelPosition=top;align=right;verticalAlign=bottom;" vertex="1" parent="1">
           <mxGeometry x="860" y="80" width="860" height="410" as="geometry" />
@@ -924,20 +924,20 @@
           <mxGeometry x="1130" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SXt-kgr3u7nZF2vn3yTo-17" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="850" y="950" width="860" height="185" as="geometry" />
+          <mxGeometry x="860" y="830" width="860" height="185" as="geometry" />
         </mxCell>
-        <mxCell id="jjmKrRQ3hK9dY545qWWS-2" value="Postgres" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#dae8fc;strokeColor=#6c8ebf;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="900" y="1012.5" width="70" height="60" as="geometry" />
+        <mxCell id="jjmKrRQ3hK9dY545qWWS-2" value="Postgres" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#3399FF;strokeColor=#333333;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="910" y="892.5" width="70" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jjmKrRQ3hK9dY545qWWS-3" value="MongoDB" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#dae8fc;strokeColor=#6c8ebf;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="1020" y="1012.5" width="70" height="60" as="geometry" />
+        <mxCell id="jjmKrRQ3hK9dY545qWWS-3" value="MongoDB" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#3399FF;strokeColor=#333333;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="892.5" width="70" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jjmKrRQ3hK9dY545qWWS-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="SXt-kgr3u7nZF2vn3yTo-2" target="jjmKrRQ3hK9dY545qWWS-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1110" y="147" />
               <mxPoint x="1110" y="190" />
-              <mxPoint x="935" y="190" />
+              <mxPoint x="945" y="190" />
             </Array>
           </mxGeometry>
         </mxCell>
